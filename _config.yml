@@ -4,15 +4,15 @@
 # which you are expected to set up once and rarely need to edit after that.
 
 # Basic Site Settings
-locale                   : "en-US" # 建議設為 en-US 以確保英文排版與論文審查相容性最佳
-site_theme               : "default" # Options: "default", "air", "sunrise", "mint", "dirt", "contrast"
+locale                   : "en-US"
+site_theme               : "default"
 title                    : "Hsu Cheng Kang - Academic Homepage"
 title_separator          : "-"
 name                     : &name "Hsu Cheng Kang"
 description              : &description "Academic portfolio and personal website of Hsu Cheng Kang, focusing on LLM Security, Prompt Injection Defense, and Adversarial Machine Learning."
-url                      : "https://crergrow.github.io/academicpages.github.io/"
-baseurl                  : ""
-repository               : "https://crergrow.github.io/academicpages.github.io/"
+url                      : "https://crergrow.github.io"
+baseurl                  : "/academicpages.github.io"
+repository               : "crergrow.github.io/academicpages.github.io"
 
 # Site Author - Controls the sidebar profile (OpenReview 驗證核心欄位)
 author:
