@@ -10,9 +10,9 @@ title                    : "Hsu Cheng Kang - Academic Homepage"
 title_separator          : "-"
 name                     : &name "Hsu Cheng Kang"
 description              : &description "Academic portfolio and personal website of Hsu Cheng Kang, focusing on LLM Security, Prompt Injection Defense, and Adversarial Machine Learning."
-url                      : "https://crergrow.github.io"
+url                      : "https://crergrow.github.io/academicpages.github.io/"
 baseurl                  : ""
-repository               : "crergrow/crergrow.github.io"
+repository               : "https://crergrow.github.io/academicpages.github.io/"
 
 # Site Author - Controls the sidebar profile (OpenReview 驗證核心欄位)
 author:
