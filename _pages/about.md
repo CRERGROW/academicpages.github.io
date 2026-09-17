@@ -40,4 +40,4 @@ My research focuses on **Large Language Model (LLM) Security**, **Prompt Injecti
 * **M.S. in Computer Science and Engineering**  
   National Sun Yat-sen University (NSYSU), Taiwan
 * **B.S. in Computer Science and Engineering**  
-  Taiwan
+  National Sun Yat-sen University (NSYSU), Taiwan
