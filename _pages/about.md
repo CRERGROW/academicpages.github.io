@@ -17,7 +17,7 @@ My research focuses on **Large Language Model (LLM) Security**, **Prompt Injecti
 * **Full Name:** Hsu Cheng Kang
 * **Email:** [tobyshu9001@gmail.com](mailto:tobyshu9001@gmail.com)
 * **Affiliation:** Department of Computer Science and Engineering, National Sun Yat-sen University
-* **Location:** Kaohsiung, Taiwan
+* **Location:** Taiwan
 
 ---
 
@@ -39,5 +39,5 @@ My research focuses on **Large Language Model (LLM) Security**, **Prompt Injecti
 ## Education
 * **M.S. in Computer Science and Engineering**  
   National Sun Yat-sen University (NSYSU), Taiwan
-* **B.S. in Computer Science and Engineering** *(若適用可自行調整)*  
+* **B.S. in Computer Science and Engineering**  
   Taiwan
